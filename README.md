@@ -12,6 +12,7 @@ Full-stack Web Developer with a background in education and educational leadersh
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB Logo" width="50" height="50" />
   <img src="https://miro.medium.com/v2/resize:fit:1050/1*acfAKaDI7uv5GyFnJmiPhA.png" alt="Docker Logo" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2000px-Git_icon.svg.png" alt="Git Logo" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2000px-Octicons-mark-github.svg.png" alt="GitHub Logo" width="50" height="50" />
 </div>
 
 
