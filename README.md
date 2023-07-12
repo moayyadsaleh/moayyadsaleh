@@ -19,7 +19,7 @@ Full-stack Web Developer with a background in education and educational leadersh
 
 | Project Name | Project Description | Demo Link | Repository Link |
 |--------------|---------------------|------------|-----------------|
-| Project Global Officer | sdcsadcds | [Demo](https://moayyadsaleh.github.io/project-go-umt/) | [Repository](https://github.com/moayyadsaleh/project-go-umt.git) |
+| Project Global Officer | Web page built to market a program hosted by my workplace | [Demo](https://moayyadsaleh.github.io/project-go-umt/) | [Repository](https://github.com/moayyadsaleh/project-go-umt.git) |
 | Project 2 | Description 2 | [Demo 2](https://example.com) | [Repository 2](https://github.com/your-username/repo2) |
 | Project 3 | Description 3 | [Demo 3](https://example.com) | [Repository 3](https://github.com/your-username/repo3) |
 
