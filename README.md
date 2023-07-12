@@ -13,7 +13,6 @@ Full-stack Web Developer with a background in education and educational leadersh
   <img src="https://miro.medium.com/v2/resize:fit:1050/1*acfAKaDI7uv5GyFnJmiPhA.png" alt="Docker Logo" width="50" height="50" />
 </div>
 ### Projects:
-
 | Project Name | Short Description | Demo Link | Repository Link |
 |--------------|------------------|-----------|-----------------|
 | Project 1    | Description 1    | [Demo 1](https://example.com)     | [Repository 1](https://github.com/your-username/repo1) |
