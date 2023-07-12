@@ -15,14 +15,10 @@ Full-stack Web Developer with a background in education and educational leadersh
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2000px-Octicons-mark-github.svg.png" alt="GitHub Logo" width="50" height="50" />
 </div>
 
-
 ### **Projects Sample:**
 
 | Project Name | Project Description | Demo Link | Repository Link |
-|--------------|------------------|-----------|-----------------|
-| Project Global Officer    | sdcsadcds    | [Demo]([https://example.com](https://moayyadsaleh.github.io/project-go-umt/))       | [Repository]([https://github.com/your-username/repo1](https://github.com/moayyadsaleh/project-go-umt.git)) |
-| Project 2    | Description 2    | [Demo 2](https://example.com)     | [Repository 2](https://github.com/your-username/repo2) |
-| Project 3    | Description 3    | [Demo 3](https://example.com)     | [Repository 3](https://github.com/your-username/repo3) |
-| Project 3    | Description 3    | [Demo 3](https://example.com)     | [Repository 3](https://github.com/your-username/repo3) |
-| Project 3    | Description 3    | [Demo 3](https://example.com)     | [Repository 3](https://github.com/your-username/repo3) |
-| Project 3    | Description 3    | [Demo 3](https://example.com)     | [Repository 3](https://github.com/your-username/repo3) |
+|--------------|---------------------|------------|-----------------|
+| Project Global Officer | sdcsadcds | [Demo](https://moayyadsaleh.github.io/project-go-umt/) | [Repository](https://github.com/moayyadsaleh/project-go-umt.git) |
+| Project 2 | Description 2 | [Demo 2](https://example.com) | [Repository 2](https://github.com/your-username/repo2) |
+| Project 3 | Description 3 | [Demo 3](https://example.com) | [Repository 3](https://github.com/your-username/repo3) |
