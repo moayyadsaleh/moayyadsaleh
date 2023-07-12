@@ -13,5 +13,30 @@ Full-stack Web Developer with a background in education and educational leadersh
   <img src="https://miro.medium.com/v2/resize:fit:1050/1*acfAKaDI7uv5GyFnJmiPhA.png" alt="Docker Logo" width="50" height="50" />
 </div>
 
+### Projects:
+
+#### Project 1: Project Name
+
+Short Description: A brief description of your project.
+
+Demo: [Link to Demo](https://example.com)
+
+Code: [Link to GitHub Repository](https://github.com/your-username/your-repository)
+
+#### Project 2: Project Name
+
+Short Description: A brief description of your project.
+
+Demo: [Link to Demo](https://example.com)
+
+Code: [Link to GitHub Repository](https://github.com/your-username/your-repository)
+
+#### Project 3: Project Name
+
+Short Description: A brief description of your project.
+
+Demo: [Link to Demo](https://example.com)
+
+Code: [Link to GitHub Repository](https://github.com/your-username/your-repository)
 
 
