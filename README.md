@@ -11,12 +11,13 @@ Full-stack Web Developer with a background in education and educational leadersh
   <img src="https://cdn-images-1.medium.com/max/871/1*d2zLEjERsrs1Rzk_95QU9A.png" alt="Python Logo" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB Logo" width="50" height="50" />
   <img src="https://miro.medium.com/v2/resize:fit:1050/1*acfAKaDI7uv5GyFnJmiPhA.png" alt="Docker Logo" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2000px-Git_icon.svg.png" alt="Git Logo" width="50" height="50" />
 </div>
 
 
-### **Projects:**
+### **Projects Sample:**
 
-| Project Name | Short Description | Demo Link | Repository Link |
+| Project Name | Project Description | Demo Link | Repository Link |
 |--------------|------------------|-----------|-----------------|
 | Project 1    | Description 1    | [Demo 1](https://example.com)     | [Repository 1](https://github.com/your-username/repo1) |
 | Project 2    | Description 2    | [Demo 2](https://example.com)     | [Repository 2](https://github.com/your-username/repo2) |
