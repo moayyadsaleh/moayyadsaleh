@@ -26,10 +26,3 @@ Full-stack Web Developer with a background in education and educational leadersh
 | Project 3    | Description 3    | [Demo 3](https://example.com)     | [Repository 3](https://github.com/your-username/repo3) |
 | Project 3    | Description 3    | [Demo 3](https://example.com)     | [Repository 3](https://github.com/your-username/repo3) |
 | Project 3    | Description 3    | [Demo 3](https://example.com)     | [Repository 3](https://github.com/your-username/repo3) |
-| Project 3    | Description 3    | [Demo 3](https://example.com)     | [Repository 3](https://github.com/your-username/repo3) |
-| Project 3    | Description 3    | [Demo 3](https://example.com)     | [Repository 3](https://github.com/your-username/repo3) |
-| Project 3    | Description 3    | [Demo 3](https://example.com)     | [Repository 3](https://github.com/your-username/repo3) |
-| Project 3    | Description 3    | [Demo 3](https://example.com)     | [Repository 3](https://github.com/your-username/repo3) |
-| Project 3    | Description 3    | [Demo 3](https://example.com)     | [Repository 3](https://github.com/your-username/repo3) |
-| Project 3    | Description 3    | [Demo 3](https://example.com)     | [Repository 3](https://github.com/your-username/repo3) |
-| Project 3    | Description 3    | [Demo 3](https://example.com)     | [Repository 3](https://github.com/your-username/repo3) |
