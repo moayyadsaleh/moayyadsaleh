@@ -26,7 +26,7 @@ Full-stack Web Developer with a background in education and educational leadersh
 
 ### Contacts:
 
-For collaboration opportunities, you can get in touch with me through the following channels:
+### **For collaboration opportunities, you can get in touch with me through the following channels:**
 - LinkedIn: [linkedin.com/in/moayyad-saleh](https://www.linkedin.com/in/moayyad-saleh/)
 - Email: moayyadalazzam@gmail.com
 - Portfolio: [moayyadsaleh.github.io/personal-website/](https://moayyadsaleh.github.io/personal-website/)
