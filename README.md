@@ -24,6 +24,7 @@ Full-stack Web Developer with a background in education and educational leadersh
 | Boredom Chaser       | A web app designed to provide activities to alleviate boredom                                                       | [Demo](https://rocky-fjord-05045-0c5be76abaaa.herokuapp.com) | [Repository](https://github.com/moayyadsaleh/boredom-chaser) |
 | FlavorFusion         | A responsive and visually appealing website providing information about a restaurant and its amenities                  | [Demo](https://moayyadsaleh.github.io/restaurant-website-template/) | [Repository](https://github.com/moayyadsaleh/restaurant-website-template) |
 
+### Contacts:
 
 For collaboration opportunities, you can get in touch with me through the following channels:
 - LinkedIn: [linkedin.com/in/moayyad-saleh](https://www.linkedin.com/in/moayyad-saleh/)
