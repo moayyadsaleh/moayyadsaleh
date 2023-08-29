@@ -25,6 +25,10 @@ Full-stack Web Developer with a background in education and educational leadersh
 | FlavorFusion         | A responsive and visually appealing website providing information about a restaurant and its amenities                  | [Demo](https://moayyadsaleh.github.io/restaurant-website-template/) | [Repository](https://github.com/moayyadsaleh/restaurant-website-template) |
 
 
+For collaboration opportunities, you can get in touch with me through the following channels:
+- LinkedIn: [linkedin.com/in/moayyad-saleh](https://www.linkedin.com/in/moayyad-saleh/)
+- Email: moayyadalazzam@gmail.com
+- Portfolio: [moayyadsaleh.github.io/personal-website/](https://moayyadsaleh.github.io/personal-website/)
 
 
 **Feel free to explore the repositories, as each one represents a project I have worked on and contains a live demo link.**
