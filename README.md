@@ -23,7 +23,8 @@ Full-stack Web Developer with a background in education and educational leadersh
 | CuisineConnect       | Web application for searching recipes based on various parameters                                                          | [Demo](https://guarded-beyond-18137-3e79800ee5ec.herokuapp.com) | [Repository](https://github.com/moayyadsaleh/cuisine-connect) |
 | Boredom Chaser       | A web app designed to provide activities to alleviate boredom                                                       | [Demo](https://rocky-fjord-05045-0c5be76abaaa.herokuapp.com) | [Repository](https://github.com/moayyadsaleh/boredom-chaser) |
 | FlavorFusion         | A responsive and visually appealing website providing information about a restaurant and its amenities                  | [Demo](https://moayyadsaleh.github.io/restaurant-website-template/) | [Repository](https://github.com/moayyadsaleh/restaurant-website-template) |
-| Project Global Officer | Web page built to market a program hosted by my workplace: [Demo](https://moayyadsaleh.github.io/project-go-umt/) | [Repository](https://github.com/moayyadsaleh/project-go-umt.git) |
+| Project Global Officer | Web page built to market a program hosted by my workplace: | [Demo](https://moayyadsaleh.github.io/project-go-umt/)         | [Repository](https://github.com/moayyadsaleh/project-go-umt.git) |
+
 
 ### Contacts:
 
