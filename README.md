@@ -17,12 +17,13 @@ Full-stack Web Developer with a background in education and educational leadersh
 
 ### **Projects Sample:**
 
-| Project Name         | Project Description                                                                                                         | Demo Link                                            | Repository Link                                               |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|---------------------------------------------------------------|
-| Shake It Now         | Cocktail Recipe Finder, allows users to search for cocktail recipes based on their names or first letters             | [Demo](https://shakeitnow-9a83bc5ee7b3.herokuapp.com) | [Repository](https://github.com/moayyadsaleh/shake-it-now)   |
+| Project Name         | Project Description                                                                                                         | Demo Link                                                      | Repository Link                                               |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
+| Shake It Now         | Cocktail Recipe Finder, allows users to search for cocktail recipes based on their names or first letters             | [Demo](https://shakeitnow-9a83bc5ee7b3.herokuapp.com)         | [Repository](https://github.com/moayyadsaleh/shake-it-now)   |
 | CuisineConnect       | Web application for searching recipes based on various parameters                                                          | [Demo](https://guarded-beyond-18137-3e79800ee5ec.herokuapp.com) | [Repository](https://github.com/moayyadsaleh/cuisine-connect) |
 | Boredom Chaser       | A web app designed to provide activities to alleviate boredom                                                       | [Demo](https://rocky-fjord-05045-0c5be76abaaa.herokuapp.com) | [Repository](https://github.com/moayyadsaleh/boredom-chaser) |
 | FlavorFusion         | A responsive and visually appealing website providing information about a restaurant and its amenities                  | [Demo](https://moayyadsaleh.github.io/restaurant-website-template/) | [Repository](https://github.com/moayyadsaleh/restaurant-website-template) |
+| Project Global Officer | Web page built to market a program hosted by my workplace: [Demo](https://moayyadsaleh.github.io/project-go-umt/) | [Repository](https://github.com/moayyadsaleh/project-go-umt.git) |
 
 ### Contacts:
 
