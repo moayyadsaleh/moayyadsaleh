@@ -1,5 +1,6 @@
 ### About:
-Full-stack Web Developer with a background in education and educational leadership, I bring a solution-focused mindset, and attention to details. I am a quick learner and have a strong ability to adapt to emerging technologies.
+Dynamic Instructional Designer & Technical Developer Specializing in Interactive Educational Technologies and Expert in E-Learning
+Solutions, LMS Integration, and Creating Inclusive, Tech-Driven Learning Experiences.
 ### Skills:
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/200px-JavaScript-logo.png" alt="JavaScript Logo" width="50" height="50" />
