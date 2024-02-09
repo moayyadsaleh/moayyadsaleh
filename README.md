@@ -27,12 +27,6 @@ Solutions, LMS Integration, and Creating Inclusive, Tech-Driven Learning Experie
 | Project Global Officer | Web page built to market a program hosted by my workplace: | [Demo](https://moayyadsaleh.github.io/project-go-umt/)         | [Repository](https://github.com/moayyadsaleh/project-go-umt.git) |
 
 
-### Contacts:
-
-### **For collaboration opportunities, you can get in touch with me through the following channels:**
-- LinkedIn: [linkedin.com/in/moayyad-saleh](https://www.linkedin.com/in/moayyad-saleh/)
-- Email: moayyadalazzam@gmail.com
-- Portfolio: [moayyadsaleh.github.io/personal-website/](https://moayyadsaleh.github.io/personal-website/)
 
 
 **Feel free to explore the repositories, as each one represents a project I have worked on and contains a live demo link.**
