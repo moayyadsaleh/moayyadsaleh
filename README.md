@@ -1,5 +1,5 @@
 ### About:
-Instructional Designer & Language Educator, and Technical Developer Specializing in Interactive Educational Technologies and Expert in E-Learning
+Instructional Designer & Language Educator, and Technical Developer Specializing in Interactive Educational Technologies and in E-Learning
 Solutions, LMS Integration, and Creating Inclusive, Tech-Driven Learning Experiences.
 ### Skills:
 <div>
